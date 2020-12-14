@@ -1,4 +1,4 @@
-# Adzap Versioned
+# Homebrew Versioned
 
 ## How do I install these formulae?
 `brew install adzap/versioned/<formula>`
